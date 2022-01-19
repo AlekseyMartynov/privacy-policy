@@ -1,0 +1,5 @@
+'Облигации' Privacy Policy
+
+The app does NOT access, collect, use or share any of the user's personal or sensitive data.
+
+Developer contact: bond-finder-android@amartynov.ru
