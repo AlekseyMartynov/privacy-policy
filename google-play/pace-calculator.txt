@@ -1,0 +1,5 @@
+'Pace Calculator for Runners' Privacy Policy
+
+The app does NOT access, collect, use or share any of the user's personal or sensitive data.
+
+Developer contact: pace-calculator@amartynov.ru
