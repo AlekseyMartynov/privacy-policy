@@ -1,0 +1,7 @@
+'fmcafe' Privacy Policy
+
+The app does NOT access, collect, use or share any of the user's personal or sensitive data.
+
+The app uses Google Analytics to anonymously track usage data within the app.
+
+Developer contact: fmcafe@amartynov.ru
